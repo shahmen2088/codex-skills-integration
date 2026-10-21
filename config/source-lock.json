@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "repositories": [
+    {"name":"codex-ai-automation","commit":"19369a74ec389fef708b5cd9bc29453a6f36b3df","skills":["automation-design","automation-observability","bitrix24-integration","mcp-permission-audit","price-document-ingestion","telegram-order-workflow"]},
+    {"name":"codex-creative-motion","commit":"3e5f00cfbf7ab735aff903a1d970341d1f02f28a","skills":["character-art-direction","image-asset-pipeline","motion-runtime-qc","rive-character-pipeline","threejs-scene-pipeline"]},
+    {"name":"codex-data-analytics","commit":"4f972183b360905d1ccf2e32638eb8e42ec371b1","skills":["data-intake-quality","dax-review","forecast-validation","powerbi-model-plan","powerbi-report-review","price-sales-analysis"]},
+    {"name":"codex-model-routing","commit":"fd2c823a8508a337e080d85451d1ecd1cc02b173","skills":["adaptive-escalation","model-benchmark","model-router","usage-budget-guard"]},
+    {"name":"codex-opencode-engineering","commit":"4f0c985720e0ce315855c69fb61898e510402808","skills":["debug-and-verify","github-delivery","repo-engineering","webapp-smoke-test"]},
+    {"name":"codex-project-knowledge","commit":"4633b8a63d76b70e728d39c739de1e74573fcaba","skills":["decision-log","history-audit","project-handoff","skill-repository-curation"]},
+    {"name":"codex-skill-routing","commit":"ff8e63e0deb43ef215eeb864ea270264dc7f9aa2","skills":["routing-evaluator","skill-conflict-resolver","skill-router","workflow-router"]},
+    {"name":"codex-token-optimization","commit":"7468bc16300d30eb611506cefa62ed722f139a7c","skills":["context-budget","evidence-first-search","model-routing-budget","skill-evaluation"]},
+    {"name":"codex-video-production","commit":"9d7e77f881c613f6f8ca98028fddbf04cd47170b","skills":["ffmpeg-edit-pipeline","transcript-subtitles","ui-video-capture","video-preproduction","video-qc-handoff"]}
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {"repository":"codex-ai-automation","skill":"automation-design","source":"references/operation-policy.md","destination":"references/operation-policy.md"},
+  {"repository":"codex-creative-motion","skill":"rive-character-pipeline","source":"references/state-contract.md","destination":"references/state-contract.md"},
+  {"repository":"codex-data-analytics","skill":"data-intake-quality","source":"references/analysis-contract.md","destination":"references/analysis-contract.md"},
+  {"repository":"codex-project-knowledge","skill":"project-handoff","source":"references/handoff-contract.md","destination":"references/handoff-contract.md"},
+  {"repository":"codex-video-production","skill":"video-qc-handoff","source":"references/delivery-checklist.md","destination":"references/delivery-checklist.md"},
+  {"repository":"codex-skill-routing","skill":"skill-router","source":"references/routing-contract.md","destination":"references/routing-contract.md"},
+  {"repository":"codex-skill-routing","skill":"workflow-router","source":"references/topologies.md","destination":"references/topologies.md"},
+  {"repository":"codex-model-routing","skill":"model-router","source":"references/recommendation-contract.md","destination":"references/recommendation-contract.md"},
+  {"repository":"codex-model-routing","skill":"model-router","source":"references/model-policy.md","destination":"references/model-policy.md"},
+  {"repository":"codex-model-routing","skill":"model-benchmark","source":"references/evaluation-protocol.md","destination":"references/evaluation-protocol.md"}
+]

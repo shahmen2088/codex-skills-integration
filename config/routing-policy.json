@@ -1,0 +1,9 @@
+{
+  "modelRecommendationController": "model-router",
+  "budgetSkills": ["model-routing-budget", "usage-budget-guard"],
+  "budgetSkillsAreAdvisory": true,
+  "preserveExplicitUserModelChoice": true,
+  "requireUserConfirmationForModelSwitch": true,
+  "requireCauseClassificationBeforeEscalation": true,
+  "routingOrder": ["native-exact-match", "skill-router", "workflow-router", "skill-conflict-resolver"]
+}
