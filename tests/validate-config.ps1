@@ -10,4 +10,7 @@ foreach ($map in $maps) {
   if ($repo.Count -ne 1 -or $map.skill -notin $repo[0].skills) { throw "Invalid reference map entry: $($map.repository)/$($map.skill)" }
   if ($map.source -notmatch '^references/.+\.md$' -or $map.destination -notmatch '^references/.+\.md$') { throw 'Reference maps must remain inside references/' }
 }
+foreach ($repo in @($lock.repositories)) {
+  if ($repo.url -notmatch '^https://github\.com/shahmen2088/codex-[a-z0-9-]+\.git$') { throw "Missing or unsupported source URL: $($repo.name)" }
+}
 Write-Output 'PASS: source lock and reference map define nine repositories and 42 unique skills'
